@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next js, Typescript**
 
-- 👨‍💻 All of my projects are available at [pralhad.me)
+- 👨‍💻 All of my projects are available at [https://pralhad.me)
 
 - 💬 Ask me about **Javascript**
 
