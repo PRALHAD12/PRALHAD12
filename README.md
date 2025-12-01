@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next js, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfoliopralhad.netlify.app/](https://portfoliopralhad.netlify.app/)
+- 👨‍💻 All of my projects are available at [pralhad.me)
 
 - 💬 Ask me about **Javascript**
 
